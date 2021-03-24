@@ -19,3 +19,25 @@
     font-size: 18px;
 }
 
+
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.856);
+    line-height: 3;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+
+}
+
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 35px;
+    box-shadow: 10px 10px 10px rgb(255, 0, 179);
+    margin-top: 150px;
+}
+
